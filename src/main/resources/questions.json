@@ -62,18 +62,19 @@
       "pathToImage": "img\\javaCat.jpg"
     },
     "5": {
-      "question": "",
+      "question": null,
       "answers": [
         {
-          "answer": "",
+          "answer": null,
           "trueAnswer": true
         },
         {
-          "answer": "",
+          "answer": null,
           "trueAnswer": false
         }
       ],
-      "fail": "",
-      "pathToImage": ""
+      "fail": null
+
     }
+
   }
